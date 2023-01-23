@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome</title>
+</head>
+<body>
+	<h1>Add Employee</h1>
+	<form action="SaveServlet" method="post">
+		<table>
+			<tr>
+				<td>Id:</td>
+				<td><input type="text" name="id" /></td>
+			</tr>
+			<tr>
+				<td>Name:</td>
+				<td><input type="text" name="name" /></td>
+			</tr>
+			<tr>
+				<td>Password:</td>
+				<td><input type="password" name="password" /></td>
+			</tr>
+			<tr>
+				<td>Email:</td>
+				<td><input type="email" name="email" /></td>
+			</tr>
+			<tr>
+				<td>Country:</td>
+				<td><select name="country" style="width: 150px">
+						<option>India
+						<option>USA</option>
+						<option>UK</option>
+						<option>Other</option>
+				</select></td>
+			</tr>
+
+		</table>
+		<tr>
+			<td><input type="submit" value="Submit"></td>
+		</tr>
+
+		<!-- <a href="ViewServlet">View Record</a> -->
+	</form>
+	<br>
+	<button>
+		<a href="ViewServlet">View Record</a>
+	</button>
+	<form method="post" action="UploadFile"
+		enctype="multipart/form-data">
+		<input type="file" name="file" />
+		 <input type="submit" value="Upload" />
+		 <a href="DownloadServlet">Download file</a>  
+	</form>
+</body>
+</html>

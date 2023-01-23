@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/jstl.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/comm-0.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/common-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-collections.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-lang.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/commons-math-1.0-dev.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/ezmorph.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/javax.mail-1.3.3.01.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/jstl.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/jstl-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/jtds-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/junit.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/mail.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/ojdbc14_g.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/servlet.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/Adi Soft zip/jar file/Project jar/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
